@@ -26,5 +26,5 @@
 
   The *samsung* data frame variable contains the 10299 observations produced from concatenating the train and test datasets. 
 
-  The *samsung_means* data frame and *submission.txt* file contains the means of these observations grouped by SubjectID and Activity.
+  The *samsung_means* data frame and *submission.txt* file contains the means of these observations grouped by *SubjectID* and *Activity*.
 
